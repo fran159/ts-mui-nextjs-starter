@@ -40,7 +40,7 @@ sections:
         title: ¿Por qué ahorrar para un fondo de salud?
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/76.webp
           altText: First item image
         text: >
           Ahorrar para un fondo de salud te protege frente a imprevistos médicos

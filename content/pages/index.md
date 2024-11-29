@@ -49,7 +49,8 @@ sections:
         actions:
           - type: Button
             label: '[Conoce más sobre cómo iniciar un fondo de salud]'
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: >-
+              https://www.consumerfinance.gov/es/empiece-poco-a-poco-y-ahorre/guia-para-hacer-un-fondo-de-emergencia/
       - type: Card
         title: Beneficios de contar con un fondo de salud
         image:

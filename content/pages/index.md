@@ -4,7 +4,9 @@ type: Page
 sections:
   - type: HeroSection
     title: Creando futuros
-    subtitle: ciyguyj
+    subtitle: >-
+      informacion sobre como manejar tus finanzas para una vida mejor manejando
+      tus ahorros para tu salud 
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn

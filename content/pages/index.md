@@ -63,7 +63,7 @@ sections:
 
         actions:
           - type: Button
-            label: Read the Docs
+            label: '[Descubre los beneficios de un fondo para la salud]'
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Consejos prácticos para ahorrar para tu salud

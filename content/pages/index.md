@@ -23,7 +23,8 @@ sections:
         color: primary
       - type: Button
         label: Lea los documentos
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: >-
+          https://www.bbva.com/es/salud-financiera/que-es-el-ahorro-y-como-ahorrar-mejor-con-estos-consejos/
         size: large
         variant: outlined
         color: primary

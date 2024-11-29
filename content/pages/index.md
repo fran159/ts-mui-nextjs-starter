@@ -77,7 +77,7 @@ sections:
           pequeño esfuerzo cuenta!
         actions:
           - type: Button
-            label: Read the Docs
+            label: '[Explora consejos para cuidar tu futuro financiero]'
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Item Title

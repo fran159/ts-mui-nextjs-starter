@@ -32,7 +32,7 @@ sections:
       url: /images/85.jpg
   - type: CardsSection
     title: 'FONDO PARA LA SALUD '
-    subtitle: Section subtitle here
+    subtitle: el ahorro para la salud
     items:
       - type: Card
         title: First Card Title

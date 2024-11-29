@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Creando futuros
+    title: ''
     subtitle: >-
       informacion sobre como manejar tus finanzas para una vida mejor manejando
       tus ahorros para tu salud 

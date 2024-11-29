@@ -22,7 +22,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Lea los documentos
+        label: calculadora 50/30/20
         url: >-
           https://www.bbva.com/es/salud-financiera/que-es-el-ahorro-y-como-ahorrar-mejor-con-estos-consejos/
         size: large

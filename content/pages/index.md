@@ -82,7 +82,8 @@ sections:
         actions:
           - type: Button
             label: '[Explora consejos para cuidar tu futuro financiero]'
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: >-
+              https://fondosmutuos.pe/empodera-tu-futuro-educacion-financiera-esencial-para-jovenes/
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle

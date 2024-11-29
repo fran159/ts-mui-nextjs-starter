@@ -67,7 +67,8 @@ sections:
         actions:
           - type: Button
             label: '[Descubre los beneficios de un fondo para la salud]'
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: >-
+              https://seguros.goodhope.org.pe/que-beneficios-trae-contar-con-un-seguro-de-salud/
       - type: Card
         title: Consejos prácticos para ahorrar para tu salud
         image:

@@ -8,15 +8,8 @@ sections:
       informacion sobre como manejar tus finanzas para una vida mejor manejando
       tus ahorros para tu salud 
     text: >+
-      <div style="text-align: center">![](/images/favicon.svg)This is the
-      HeroSection component. You can visually edit this component & add more
-      sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)</div>
-
-
-      <div style="text-align: left">```
-
-      ```</div>
+      <div style="text-align:
+      center">[.](https://docs.netlify.com/visual-editor/local-development/)</div>
 
     actions:
       - type: Button

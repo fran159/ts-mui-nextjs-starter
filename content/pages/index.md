@@ -7,15 +7,17 @@ sections:
     subtitle: >-
       informacion sobre como manejar tus finanzas para una vida mejor manejando
       tus ahorros para tu salud 
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >+
+      <div style="text-align: center">![](/images/favicon.svg)This is the
+      HeroSection component. You can visually edit this component & add more
+      sections while developing locally. [Learn
+      more.](https://docs.netlify.com/visual-editor/local-development/)</div>
 
 
       <div style="text-align: left">```
 
       ```</div>
+
     actions:
       - type: Button
         label: Start Building

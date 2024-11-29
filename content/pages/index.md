@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: PEQUEÑOS
+    title: 'PEQUEÑOS CAMBIOS, GRANDES AHORROS: CONSTRUYE TU FUTURO HOY!'
     subtitle: >-
       informacion sobre como manejar tus finanzas para una vida mejor manejando
       tus ahorros para tu salud 

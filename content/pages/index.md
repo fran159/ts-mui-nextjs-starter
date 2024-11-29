@@ -31,7 +31,7 @@ sections:
       altText: Hero section image
       url: /images/85.jpg
   - type: CardsSection
-    title: Cards Section Component
+    title: 'FONDO PARA LA SALUD '
     subtitle: Section subtitle here
     items:
       - type: Card

@@ -74,11 +74,13 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          Establece un presupuesto, reduce gastos innecesarios y utiliza
+          herramientas financieras para alcanzar tus objetivos de ahorro. ¡Cada
+          pequeño esfuerzo cuenta!
+
+          \[Explora consejos para cuidar tu futuro financiero]
+
         actions:
           - type: Button
             label: Read the Docs

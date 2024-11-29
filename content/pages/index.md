@@ -46,7 +46,7 @@ sections:
           cuidar tu bienestar y el de tu familia.
         actions:
           - type: Button
-            label: Read the Docs
+            label: '[Conoce más sobre cómo iniciar un fondo de salud]'
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Beneficios de contar con un fondo de salud

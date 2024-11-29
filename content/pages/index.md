@@ -7,9 +7,8 @@ sections:
     subtitle: >-
       informacion sobre como manejar tus finanzas para una vida mejor manejando
       tus ahorros para tu salud 
-    text: >+
-      <div style="text-align: center">###### Creando futuros
-      [.](https://docs.netlify.com/visual-editor/local-development/)</div>
+    text: |+
+      <div style="text-align: center">######</div>
 
     actions:
       - type: Button

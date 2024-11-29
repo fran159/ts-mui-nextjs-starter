@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: INFORMACION
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: ''
         size: large
         variant: contained
         color: primary

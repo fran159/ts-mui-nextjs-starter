@@ -35,7 +35,7 @@ sections:
     subtitle: El ahorro para la salud
     items:
       - type: Card
-        title: First Card Title
+        title: ¿Por qué ahorrar para un fondo de salud?
         image:
           type: Image
           url: /images/nextjs.svg

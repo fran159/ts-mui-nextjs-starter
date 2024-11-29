@@ -71,13 +71,10 @@ sections:
           type: Image
           url: /images/ts.svg
           altText: Third item image
-        text: >+
+        text: >
           Establece un presupuesto, reduce gastos innecesarios y utiliza
           herramientas financieras para alcanzar tus objetivos de ahorro. ¡Cada
           pequeño esfuerzo cuenta!
-
-          \[Explora consejos para cuidar tu futuro financiero]
-
         actions:
           - type: Button
             label: Read the Docs

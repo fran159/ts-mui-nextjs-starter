@@ -31,7 +31,10 @@ sections:
     image:
       type: Image
       altText: Hero section image
-      url: /images/85.jpg
+      url: >-
+        /images/DALL·E 2024-11-28 22.32.15 - Un diseño de portada visualmente
+        inspirador con el tema 'Pequeños Cambios, Grandes Ahorros_ Construye tu
+        Futuro Hoy'. La imagen presenta una alcancía .jpg
   - type: CardsSection
     title: 'FONDO PARA LA SALUD '
     subtitle: El ahorro para la salud

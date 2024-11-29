@@ -16,7 +16,8 @@ sections:
     actions:
       - type: Button
         label: INFORMACION
-        url: ''
+        url: >-
+          https://www.gob.pe/institucion/mtpe/noticias/648922-certificado-unico-laboral-del-mtpe-permitiria-un-ahorro-de-s-300-millones-a-los-ciudadanos
         size: large
         variant: contained
         color: primary

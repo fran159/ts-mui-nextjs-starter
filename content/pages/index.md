@@ -3,76 +3,88 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    title: 'PEQUEÑOS CAMBIOS, GRANDES AHORROS: CONSTRUYE TU FUTURO HOY!'
+    subtitle: >-
+      informacion sobre como manejar tus finanzas para una vida mejor manejando
+      tus ahorros para tu salud 
+    text: >+
+      <div style="text-align: center">######
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</div>
+
+
+
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        label: INFORMACION
+        url: >-
+          https://www.gob.pe/institucion/mtpe/noticias/648922-certificado-unico-laboral-del-mtpe-permitiria-un-ahorro-de-s-300-millones-a-los-ciudadanos
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        label: calculadora 50/30/20
+        url: >-
+          https://www.bbva.com/es/salud-financiera/calculadora-presupuesto-ahorro-mensual-50-30-20/
         size: large
         variant: outlined
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
       altText: Hero section image
+      url: >-
+        /images/DALL·E 2024-11-28 22.32.15 - Un diseño de portada visualmente
+        inspirador con el tema 'Pequeños Cambios, Grandes Ahorros_ Construye tu
+        Futuro Hoy'. La imagen presenta una alcancía .jpg
   - type: CardsSection
-    title: Cards Section Component
-    subtitle: Section subtitle here
+    title: 'FONDO PARA LA SALUD '
+    subtitle: El ahorro para la salud
     items:
       - type: Card
-        title: First Card Title
+        title: ¿Por qué ahorrar para un fondo de salud?
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/76.webp
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Ahorrar para un fondo de salud te protege frente a imprevistos médicos
+          y garantiza acceso a atención de calidad. Es una forma responsable de
+          cuidar tu bienestar y el de tu familia.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: '[Conoce más sobre cómo iniciar un fondo de salud]'
+            url: >-
+              https://www.consumerfinance.gov/es/empiece-poco-a-poco-y-ahorre/guia-para-hacer-un-fondo-de-emergencia/
       - type: Card
-        title: Second Card Title
+        title: Beneficios de contar con un fondo de salud
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/89.webp
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          Un fondo de salud permite cubrir gastos médicos sin afectar tus
+          finanzas diarias, evita deudas y proporciona tranquilidad en momentos
+          difíciles.
+
+          \[Descubre los beneficios de un fondo para la salud]
+
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: '[Descubre los beneficios de un fondo para la salud]'
+            url: >-
+              https://seguros.goodhope.org.pe/que-beneficios-trae-contar-con-un-seguro-de-salud/
       - type: Card
-        title: Third Card Title
+        title: Consejos prácticos para ahorrar para tu salud
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/62.avif
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Establece un presupuesto, reduce gastos innecesarios y utiliza
+          herramientas financieras para alcanzar tus objetivos de ahorro. ¡Cada
+          pequeño esfuerzo cuenta!
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: '[Explora consejos para cuidar tu futuro financiero]'
+            url: >-
+              https://fondosmutuos.pe/empodera-tu-futuro-educacion-financiera-esencial-para-jovenes/
 ---

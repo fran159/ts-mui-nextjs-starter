@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "",
         "navLinks": [
             {
                 "type": "Link",
@@ -12,14 +12,14 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
+                "label": "plantilla de contabilidad",
+                "url": "https://docs.google.com/spreadsheets/d/1C-t2SB3mrcy0cd3btxzEEeSfvukwpZpg/edit?gid=1562371641#gid=1562371641",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "",
+                "url": "",
                 "underline": "hover"
             }
         ]

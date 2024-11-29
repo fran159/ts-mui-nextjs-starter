@@ -24,7 +24,7 @@ sections:
       - type: Button
         label: calculadora 50/30/20
         url: >-
-          https://www.bbva.com/es/salud-financiera/que-es-el-ahorro-y-como-ahorrar-mejor-con-estos-consejos/
+          https://www.bbva.com/es/salud-financiera/calculadora-presupuesto-ahorro-mensual-50-30-20/
         size: large
         variant: outlined
         color: primary

@@ -73,7 +73,7 @@ sections:
         title: Consejos prácticos para ahorrar para tu salud
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/62.avif
           altText: Third item image
         text: >
           Establece un presupuesto, reduce gastos innecesarios y utiliza

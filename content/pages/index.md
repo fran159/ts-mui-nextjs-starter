@@ -40,11 +40,13 @@ sections:
           type: Image
           url: /images/nextjs.svg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          Ahorrar para un fondo de salud te protege frente a imprevistos médicos
+          y garantiza acceso a atención de calidad. Es una forma responsable de
+          cuidar tu bienestar y el de tu familia.
+
+          \[Conoce más sobre cómo iniciar un fondo de salud]
+
         actions:
           - type: Button
             label: Read the Docs

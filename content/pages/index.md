@@ -55,7 +55,7 @@ sections:
         title: Beneficios de contar con un fondo de salud
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/89.webp
           altText: Second item image
         text: >+
           Un fondo de salud permite cubrir gastos médicos sin afectar tus

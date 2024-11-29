@@ -9,6 +9,11 @@ sections:
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
+
+
+      <div style="text-align: left">```
+
+      ```</div>
     actions:
       - type: Button
         label: Start Building
